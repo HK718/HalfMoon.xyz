@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HalfMoon.xyz</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 20px;
+        }
+        img {
+            max-width: 80%;
+            height: auto;
+            border-radius: 10px;
+        }
+        h1 {
+            color: #ff6347;
+            font-size: 3em;
+        }
+        p {
+            font-size: 1.2em;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to HalfMoon.xyz</h1>
+    <img src="fish.jpg" alt="Siamese fighting fish">
+    <p>
+        Siamese fighting fish, also known as Betta fish, are renowned for their vibrant colors and graceful, flowing fins. 
+        Their elegance and bold personalities make them a favorite among fish enthusiasts. 
+        The HalfMoon variety, with its stunning 180-degree tail spread, showcases the beauty of nature's aquatic wonders.
+    </p>
+</body>
+</html>
